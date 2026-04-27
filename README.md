@@ -1,4 +1,4 @@
-# BCG Gamma Virtual Experience - Customer Churn Prediction 🚀
+# BCG Gamma Virtual Experience - Customer Churn Prediction 
 
 ##  Project Overview
 This project is part of the **BCG Data Science & Analytics Virtual Experience**. The goal was to help **PowerCo**, a major energy utility, understand and predict customer churn among their SME (Small and Medium Enterprise) customers.
